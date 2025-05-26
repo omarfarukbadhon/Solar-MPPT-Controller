@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+F:\Fiver\infiniteknz\infiniteknz\infiniteknz\SLA battery MPPT controller\Project Outputs for SLA battery MPPT controller\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/05/25
+Time:       08:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","LT3652EDD#PBF","TopLayer","DFN-12_L3.0-W3.0-P0.50-LS3.0-BL-EP","12.2174","23.8252","180","4.95V~32V Multi-Chemical 1~4 2A DFN-12(3x3) Battery Management ROHS"
+"R8","1MO","TopLayer","R0805","24.8118","6.0053","180","1MO 0805 Chip Resistor  0.5W Thick Film Resistors ±5% ±200ppm/? - Surface Mount ROHS"
+"R7","100kO","TopLayer","R0805","26.4628","10.0693","90","100kO 0805 Chip Resistor 0.125W Thick Film Resistors ±100ppm/? ±1%  - Surface Mount ROHS"
+"R6","100kO","TopLayer","R0805","32.1436","27.5144","270","100kO 0805 Chip Resistor 0.125W Thick Film Resistors ±100ppm/? ±1%  - Surface Mount ROHS"
+"R5","10kO","TopLayer","R0805","20.8788","25.5270","0","10kO 0805 Chip Resistor  0.2W Thick Film Resistors 200V ±50ppm/? ±0.1% - Surface Mount ROHS"
+"R4","10kO","TopLayer","R0805","20.9461","21.5646","0","10kO 0805 Chip Resistor  0.2W Thick Film Resistors 200V ±50ppm/? ±0.1% - Surface Mount ROHS"
+"R3","309kO","TopLayer","R0805","26.4628","14.8953","90","309kO 0805 Chip Resistor 0.125W Thick Film Resistors ±100ppm/? ±1%  - Surface Mount ROHS"
+"R2","0.068O","TopLayer","R0805","23.6688","14.8953","90","0.125W Thick Film Resistors 300V ±600ppm/? ±5% 0.068O 0805 Chip Resistor - Surface Mount ROHS"
+"R1","562kO","TopLayer","R0805","33.6930","23.1202","0","0.125W Thick Film Resistors ±100ppm/? ±1% 562kO 0805 Chip Resistor - Surface Mount ROHS"
+"R9","174kO","TopLayer","R0805","7.5946","22.8600","180","174kO 0805 Chip Resistor  0.125W Thick Film Resistors ±100ppm/? ±1% - Surface Mount ROHS"
+"P2","WJ128V-5.0-2P","TopLayer","CONN-TH_2P-P5.00_WJ128V-5.0-2P","48.7172","13.5738","270","1x2P 20A -40?~+105? 250V Green 12~22 Direct Insert 5mm 2.5 1 2 Plugin,P=5mm Screw Terminal Blocks ROHS"
+"P1","WJ128V-5.0-2P","TopLayer","CONN-TH_2P-P5.00_WJ128V-5.0-2P","48.7172","23.8506","270","1x2P 20A -40?~+105? 250V Green 12~22 Direct Insert 5mm 2.5 1 2 Plugin,P=5mm Screw Terminal Blocks ROHS"
+"LED2","LTST-C170KRKT","TopLayer","LED0805-R-RD","26.4668","25.5270","0","20mA 54mcd Colorless Transparent Lens -55?~+85? 631nm Red 130° 75mW 2V 0805 LED Indication - Discrete ROHS"
+"LED1","LTST-C170KRKT","TopLayer","LED0805-R-RD","26.5341","21.5646","0","20mA 54mcd Colorless Transparent Lens -55?~+85? 631nm Red 130° 75mW 2V 0805 LED Indication - Discrete ROHS"
+"L1","22 µH","TopLayer","WE-PD_7345R","17.4244","13.9192","180","WE-PD SMT Power Inductor, size 7345R, 22 µH, 1.41 A, 110 mO"
+"F1","0437003.WR","TopLayer","F1206","38.0198","9.0533","0","50A SMD Fuse 3A 32V 1206 Disposable fuses ROHS"
+"D5","1N4148WS-7-F","TopLayer","SOD-323_L1.8-W1.3-LS2.5-RD","23.7958","10.0693","90","75V Independent Type 1.25V@150mA 4ns 150mA SOD-323 Switching Diodes ROHS"
+"D4","V8PAL45-M3/I","TopLayer","DO-221BC_L4.3-W2.7-LS5.3-RD","11.0998","12.8524","270","45V 4A 570mV@8A DO-221BC(SMPA) Schottky Diodes ROHS"
+"D3","V8PAL45-M3/I","TopLayer","DO-221BC_L4.3-W2.7-LS5.3-RD","38.9762","27.9208","90","45V 4A 570mV@8A DO-221BC(SMPA) Schottky Diodes ROHS"
+"D2","MMSZ5234BT1G","TopLayer","SOD-123_L2.8-W1.8-LS3.7-RD","6.7056","18.6690","270","Independent Type 5.89V~6.51V 500mW 6.2V SOD-123 Zener Diodes ROHS"
+"D1","1N4148WS-7-F","TopLayer","SOD-323_L1.8-W1.3-LS2.5-RD","8.8646","18.5420","270","75V Independent Type 1.25V@150mA 4ns 150mA SOD-323 Switching Diodes ROHS"
+"C4","100uF","TopLayer","CAP-SMD_BD8.0-L8.3-W8.3-LS9.5-FD","35.6068","15.9113","0","100uF 25V 130mA@120Hz ±20% SMD,D8xL10.2mm Aluminum Electrolytic Capacitors - SMD ROHS"
+"C3","10uF","TopLayer","C1206","32.1778","9.0533","0","35V 10uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C2","10uF","TopLayer","C1206","35.4202","27.4128","90","35V 10uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","1uF","TopLayer","C0805","11.0998","18.6088","270","25V 1uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"

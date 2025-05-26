@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Charge NewDesignator=LED2
+Change Component Designator: OldDesignator=Fault  NewDesignator=LED1
+Added Member To Class: ClassName=Schematic Member=Component LED1 LTST-C170KRKT
+Added Member To Class: ClassName=Schematic Member=Component R1 536kO

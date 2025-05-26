@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-7
+Added Net: Name=NetR9_1
+Added Member To Class: ClassName=Schematic Member=Component R9 174kO
